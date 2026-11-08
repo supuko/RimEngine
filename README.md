@@ -33,6 +33,6 @@ We want to make editing software that respects both your hardware and your media
 
 ---
 
-Developed by **Playtale**, a project by **Rimline**.
+Developed by **Playtale**, a project by **Playtale Works**.
 
 https://playtale.me
