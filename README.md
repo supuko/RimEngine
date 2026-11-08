@@ -21,3 +21,6 @@ This allows us to work towards smooth editing, lower memory usage, and high-qual
 ### Our Goal
 
 We want to make editing software that respects both your hardware and your media. No unnecessary resource usage, no needless quality loss, just the tools to work with your content.
+
+*Developed by Playtale, Rimline.*
+https://playtale.me
